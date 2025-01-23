@@ -42,6 +42,6 @@ python app.py
 
 ## Dashboard Screenshot
 
-![RFM Analytics Dashboard](dashboard.png)
+![RFM Analytics Dashboard](Dashboard.png)
 
 The dashboard screenshot shows the various visualizations available in the app, including the RFM Value Segment Distribution, RFM Customer Segments Treemap, RFM Values in Champions Segment, and the Correlation Matrix of Champions Segment.
